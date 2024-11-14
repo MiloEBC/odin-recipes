@@ -35,3 +35,33 @@
     border-bottom: 1px solid #ddd;
     margin-bottom: 5px;
 }
+.recipe-steps {
+    background-color: #f9f9f9; /* Light background color */
+    padding: 20px; /* Space inside the box */
+    border: 2px solid #ddd; /* Border around the box */
+    border-radius: 10px; /* Rounded corners */
+    width: 300px; /* Width of the box */
+    margin: 20px auto; /* Center the box on the page */
+  }
+  
+  .recipe-steps h3 {
+    text-align: center;
+    font-size: 1.5em;
+    color: #333;
+  }
+  
+  .recipe-steps ol {
+    padding-left: 20px; /* Space for the list bullets */
+  }
+  
+  .recipe-steps ol li {
+    margin-bottom: 10px; /* Space between list items */
+    font-size: 1em;
+    color: #444;
+  }
+
+  .image-container{
+    text-align: center;
+    
+  }
+  
